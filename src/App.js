@@ -1,14 +1,15 @@
-import Friends from './Friends';
-const mca = require('./mca.json');
+import Calender from './Calender';
+const mca = require('./CalenderData.json');
 function App(props) {
-  console.log(mca);
   return (
-    <>   
-    {
-      mca.map(function(faculty){
-        return <Friends image={faculty.Image} name={faculty.Name} dot={faculty.Dot} dots={faculty.Dots}/>
-      })
-    }
+    <>
+      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: '10px' }}>
+        {
+          mca.map(function (Description) {
+            return <Calender image={Description.Image} date={Description.Date} des={Description.Description} day={Description.Day} slogan={Description.Slogan} />
+          })
+        }
+      </div>
     </>
   );
 }
