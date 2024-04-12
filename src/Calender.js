@@ -1,7 +1,8 @@
-
+    
 function Calender(props) {
     return (
         <>
+        
             <div style={{ border: '2.5px red', borderStyle: 'dashed', borderRadius: '10px', padding: '10px', margin: '5px', backgroundImage: `url(${props.image})`, backgroundSize: 'cover', backgroundPosition: 'center' }} >
                 <div >
                     <p style={{ float: "left", color: "black", padding: '0px', margin: '0px', fontFamily: 'revert', fontSize: '18px' }}>
@@ -9,7 +10,7 @@ function Calender(props) {
                     </p>
 
                     <p style={{ float: "right", color: "#000000", padding: '0px', margin: '0px', fontFamily: 'revert', fontSize: '18px' }}>
-                        <b>{props.day}</b>
+                        <b></b>
                     </p>
                 </div>
 
@@ -22,6 +23,8 @@ function Calender(props) {
                         {props.slogan}
                     </p>
                 </div>
+
+                
             </div>
         </>
     )

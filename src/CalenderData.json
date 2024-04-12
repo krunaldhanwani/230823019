@@ -1,26 +1,30 @@
 [
     {
-        "Image": "assets/christmas.png",
+        "Type":"Holidays",
+        "Image":"linear-gradient(to right, #000000, #019CAD)    ",
         "Date": "25-Dec-2023 / #W5",
         "Day": "Monday",
         "Description": "Christmas",
         "Slogan": "होली के इस पावन अवसर पर, आपको और आपके परिवार को ढेरों खुशियाँ और प्यार मिले।"
     },
     {
-        "Image": "assets/Makarshankranti.PNG",
+        "Type":"Holidays",
+        "Image":"assets/celeb.gif",
         "Date": "14-Jan-2024 / #W5",
         "Day": "Sunday",
         "Description": "Makarshankranti",
         "Slogan": "आपके लिए हो तिल लड्डू जैसी मीठी,मिले कामयाबी पतंग जैसी ऊंची,इसी कामना के साथ हैप्पी मकर संक्रांति।"
     },
     {
-        "Image": "assets/holika-dahan.jpg",
+        "Type":"Holidays",
+        "Image":"assets/celeb.gif",
         "Date": "26-Jan-2024 / #W5",
         "Day": "Friday",
         "Description": "Republic Day",
         "Slogan": "सारे जहाँ से अच्छा, हिंदुस्तान हमारा|"
     },
     {
+        "Type":"Exams",
         "Image": "assets/holika-dahan.jpg",
         "Date": "05-Feb-2024 / 10-Feb-2024",
         "Day": "Monday / Saturday",
@@ -28,6 +32,7 @@
         "Slogan": "Component Test (Theory) "
     },
     {
+        "Type":"Exams",
         "Image": "assets/holika-dahan.jpg",
         "Date": "12-Feb-2024 / 21-Feb-2024",
         "Day": "Monday / Wednesday",
@@ -35,6 +40,7 @@
         "Slogan": "Supplementary Examination Form (Semester - 1 to 6)"
     },
     {
+        "Type":"Exams",
         "Image": "assets/holika-dahan.jpg",
         "Date": "26-Feb-2024 / 06-Mar-2024",
         "Day": "Monday / Wednesday",
@@ -42,13 +48,15 @@
         "Slogan": "Regular Examination Form (Semester - 2, 4, 6)"
     },
     {
-        "Image": "assets/holika-dahan.jpg",
+        "Type":"Holidays",
+        "Image":"assets/celeb.gif",
         "Date": "08-Mar-2024  / #W5",
         "Day": "Friday",
         "Description": "Maha Shivratri",
         "Slogan": "शिव ही सत्य हैं,शिव ही सुन्दर,शिव ही सब गुण आगर हैं,भोले दानी भोलेनाथ,शिव जी तो दया के सागर हैं|"
     },
     {
+        "Type":"Exams",
         "Image": "assets/holika-dahan.jpg",
         "Date": "Before 21-Mar-2024",
         "Day": " ",
@@ -56,6 +64,7 @@
         "Slogan": "CIA - All other Assessment Tools / Components "
     },
     {
+        "Type":"Exams",
         "Image": "assets/holika-dahan.jpg",
         "Date": "Before 22-Mar-2024",
         "Day": "Monday / Wednesday",
@@ -63,28 +72,32 @@
         "Slogan": "CIA Component Test (Practical) "
     },
     {
-        "Image": "assets/holika-dahan.jpg",
+        "Type":"Holidays",
+        "Image":"assets/celeb.gif",
         "Date": "25-Mar-2024 / #W5",
         "Day": "Monday",
         "Description": "Dhuleti",
         "Slogan": "रंगों का त्योहार है आया, होली का दिन है आया, सबको रंगों में नहाने की बधाई हो|"
     },
     {
-        "Image": "assets/holika-dahan.jpg",
+        "Type":"Holidays",
+        "Image":"assets/celeb.gif",
         "Date": "11-Apr-2024  / #W5",
         "Day": "Thursday",
         "Description": "Ramjan Eid",
         "Slogan": "चांद को चांदनी मुबारक फ़लक को सितारे मुबारक सितारों को बुलंदी मुबारक और आपको हमारी तरह से|"
     },
     {
-        "Image": "assets/holika-dahan.jpg",
+        "Type":"Holidays",
+        "Image":"assets/celeb.gif",
         "Date": "14-Apr-2024  / #W5",
         "Day": "Sunday",
         "Description": "Ambedkar Jayanti",
         "Slogan": "आज का दिन है बड़ा महान बनकर सूरज चमका इक इंसान कर गए सबके भले का ऐसा काम बना गए हमारे देश का संविधान जय भीम !|"
     },
     {
-        "Image": "assets/holika-dahan.jpg",
+        "Type":"Holidays",
+        "Image": "assets/celeb.gif",
         "Date": "17-Apr-2024 / #W5",
         "Day": "Wednesday",
         "Description": "Ram Navami",
